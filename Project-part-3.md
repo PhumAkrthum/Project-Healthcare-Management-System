@@ -9,7 +9,7 @@
 <table border="1" bordercolor="#000000">
   <tr>
     <td rowspan="2">ที่</td>
-    <td rowspan="2">งานที่ต้องปฏิบัติ</td>
+    <td rowspan="2">งานที่ต้อง56ปฏิบัติ</td>
     <td colspan="4">เดือนกรกฏาคม</td>  
     <td colspan="4">เดือนสิงหาคม</td> 
     <td colspan="4">เดือนกันยายน</td>  
